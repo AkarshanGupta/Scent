@@ -1,5 +1,4 @@
 // // IMPORTANT: Replace this with your actual Gemini API key
-// const GEMINI_API_KEY = "AIzaSyB3IBXamQb0E1Z5BCBgrAioVYLG6xIWuhw";
 // const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent";
 
 // export interface GeneratedScent {
